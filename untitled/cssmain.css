@@ -1,0 +1,35 @@
+.h {
+    font-family: "Times New Roman";
+    background-color: bisque;
+}
+
+.s {
+    padding: 5px;
+    left: 900px;
+    bottom: 700px;
+}
+.sd {
+    padding: 10px;
+    left: 575px;
+    bottom: 725px;
+}
+
+.bu {
+    padding: 5px;
+    left: 525px;
+    bottom: 700px;
+}
+
+ol {
+    background-color: whitesmoke;
+    margin: 0 auto;
+    width: 37.1%;
+    text-align: center;
+}
+
+div {
+    background-color: coral;
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
